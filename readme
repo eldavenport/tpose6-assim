@@ -1,0 +1,20 @@
+Notes: 
+- The code works with MITgcm checkpoint 68w
+- TAF license to needed to compile the adjoint
+- 4 executables to compile: adjoint, pack, unpack, optim
+- For optim, get https://github.com/mjlosch/optim_m1qn3
+- Files to look at after adjoint runs: costfunction and adxx (gradients)
+
+Workflow:
+- Run adjoint (mitgcmuv_ad)
+- Replace data.ctrl by data.ctrl_pack and data.pkg by data.pkg_pack
+- Run packing (compiled as mitgcmuv, renamed mitgcmuv_pack)
+- Copy ecco_cost and ecco_ctrl files to a separate folder (opti)
+- Set iteration number in data.optim
+- In data.optim, set fmin to 95% of costfinal (for iteration 0 only)
+- Run optim.x
+- Copy new ecco_ctrl to run folder
+- Increase iteration number by one, run unpacking
+- Repeat!
+
+
