@@ -9,3 +9,4 @@ ERA5/
 constraints/
 previous_state/
 build_**
+**.o*
