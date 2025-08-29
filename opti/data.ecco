@@ -1,0 +1,17 @@
+#
+#
+# ******************
+# ECCO cost function
+# ******************
+#
+ &ECCO_COST_NML
+#
+ cost_iprec  = 32,
+ cost_yftype = 'RL',
+#
+ /
+#
+ &ECCO_GENCOST_NML
+ /
+#
+
