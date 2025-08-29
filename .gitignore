@@ -10,3 +10,4 @@ constraints/
 previous_state/
 build_**
 **.o*
+submit_**
