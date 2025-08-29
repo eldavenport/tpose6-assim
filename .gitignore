@@ -9,7 +9,8 @@ ERA5/
 constraints/
 previous_state/
 build_**
-**.o*
+ecco*.o**
+tpose*.o**
 submit_**
 run_**
 **/optim.x
