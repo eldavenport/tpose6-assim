@@ -1,0 +1,10 @@
+**.nc
+**.bin
+**.cdf
+**.mat
+**.csv
+run_**/
+linked_files/
+ERA5/
+constraints/
+
