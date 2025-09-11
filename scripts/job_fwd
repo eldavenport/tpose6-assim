@@ -1,0 +1,39 @@
+#!/bin/sh
+## ------------------------------------------------------------------------------
+## need to copy data files for running into desired run folder
+## -j oe combines output (o) and error (e) into one file (default behavior separates them)
+
+#PBS -A XXX
+#PBS -N tpose_fwd
+#PBS -j oe
+#PBS -q main
+#PBS -l walltime=04:00:00
+#PBS -l select=2:ncpus=128:mpiprocs=96
+
+## load modules (compiler, MPI, etc.)
+module --force  purge 
+module load ncarenv/23.09 intel/2023.2.1 intel-mpi/2021.10.0
+module list
+
+export TMPDIR=/glade/derecho/scratch/edavenport/temp && mkdir $TMPDIR
+
+cd /glade/derecho/scratch/edavenport/assim/tpose/sep2012/run_fwd/
+cp ../../input/* .
+cp ../../build_fwd/mitgcmuv .
+ln -s ../../constraints/* .
+ln -s ../../linked_files/* .
+ln -s /glade/work/edavenport/ERA5/ERA5* .
+ln -s ../../previous_state/* .
+rm STD*
+rm output*
+rm costfinal
+rm -r PROF
+rm *equi*
+cp data.pkg_fwd data.pkg
+cp data_fwd data
+
+cp data.ctrl_ad data.ctrl
+
+mpirun -n 192 ./mitgcmuv > output.txt
+
+rm w2*

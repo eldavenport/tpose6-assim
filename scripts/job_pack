@@ -1,0 +1,29 @@
+#!/bin/sh
+## ------------------------------------------------------------------------------
+## need to copy data files for running into desired run folder
+## -j oe combines output (o) and error (e) into one file (default behavior separates them)
+
+#PBS -A XXX
+#PBS -N tpose_pack
+#PBS -j oe
+#PBS -q main
+#PBS -l walltime=00:15:00
+#PBS -l select=1:ncpus=128:mpiprocs=48
+
+## load modules (compiler, MPI, etc.)
+module --force  purge
+module load ncarenv/23.09 intel/2023.2.1 intel-mpi/2021.10.0
+module list
+
+cd /glade/derecho/scratch/edavenport/assim/tpose/sep2012/run_ad/
+
+## copy packing executable
+cp ../../build_pack/mitgcmuv mitgcmuv_pack
+
+## set adjoint specific data files to the expected names
+cp data.pkg_pack data.pkg
+cp data.ctrl_pack data.ctrl
+
+mpirun -n 48 ./mitgcmuv_pack > output_pack.txt
+
+cp -r ecco_c* /glade/derecho/scratch/edavenport/assim/tpose/opti/
