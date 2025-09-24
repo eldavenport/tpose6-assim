@@ -1,0 +1,80 @@
+Assimilation Experiments:
+
+Sep2012 Velocity Assimilation 
+- located: sep2012/run_ad
+- total iters: 22
+- best iter: 20
+- fwd runs: sep2012/iter0, sep2012/iter20
+- includes all TAO constraints (velocity, T, S)
+- includes velocity controls 
+- initialized from TPOSE6 (no TAO assim)
+
+Sep2012 Velocity Withheld
+- located: sep2012/velocity_withhold/run_ad
+- total iters:
+- best iter:
+- fwd runs: sep2012/iter0
+- includes only TAO T and S, no velocity **constraints**
+- does include velocity controls 
+
+Nov2012 Velocity Assimilation
+- located: nov2012/run_ad
+- total iters: 
+- best iter: 
+- fwd runs: nov2012/iter0
+- includes all TAO constraints (velocity, T, S)
+- updated uncertainty on the velocity obs (and controls?)
+- updated TAO profile weights in files: TAO_WO_2012_ADCP_v2.nc, TAO_WO_2012_CUR_v2.nc
+- initialized from sep2012 with velocity assim
+
+Changing Between Runs:
+- add new initialized state into previous_state/
+	- ex: T_assim_2013.data and .meta
+- update input/data (or data_ad) to use the updated previous state files
+	- at the bottom of data
+
+Adding velocity contraints:
+- add weights to profiles (make sure weights are 0 for -9999 values)
+- add profiles to constraints/ 
+- update data.profiles to includes new constraints
+- for velocity, need to add prof_names(_,3) = 'prof_U' and prof_names(_,4) = 'prof_V'
+- add prof_namesmod(_,3) = 'UE' and prof_namesmod(_,4) = 'VN
+	- example:
+		profilesfiles(7) = 'TAO_WO_2012_ADCP',
+ 		prof_names(7,3) = 'prof_U',
+		prof_names(7,4) = 'prof_V',
+		prof_namesmod(7,3) = 'UE',
+		prof_namesmod(7,4) = 'VN',
+
+Adding velocity controls:
+- add weights to linked_files/ (need to be .bin with float32's in big endian format)
+- update input/data.ctrl_ad to include new ctrl vars
+	- example: 
+		xx_genarr3d_weight(3) = 'TAO_uvel_wt_tp6.bin',
+		xx_genarr3d_file(3)='xx_uvel',
+		xx_genarr3d_preproc(1,3)='smooth',
+		mult_genarr3d(3) = 1.0,
+- update packing and unpacking (input/data.ctrl_pack)
+- add flags #define ALLOW_UVEL0_CONTROL and ALLOW_VVEL0_CONTROL to CTRL_OPTIONS.h 
+	- this needs to be done for all code folders (including fwd run)
+	- rebuild all executables
+	- optim will now fail if the max number of control vars was set to the exact # 
+	- increase the number of control vars based on optim error output 
+	- rebuild optim 
+
+
+
+Sensitivity Experiments:
+
+EUC Transport
+- located: sensitivity/sens_EUC/run_ad
+
+EUC Transport Offset by 1 Day
+- located: sensitivity/sens_EUC/run_ad_1dayoffset
+
+Surface Transport 
+- located: sensitivity/sens_surface/run_ad
+
+Surface Transport Offset by 1 Day
+- located: sensitivity/sens_surface/run_ad_1dayoffset
+
