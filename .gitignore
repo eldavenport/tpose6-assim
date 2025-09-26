@@ -15,4 +15,6 @@ submit_**
 run_**
 **/optim.x
 **/OPWARM**
-sep2012/*
+**/iter*
+**/run_ad
+**/run_fwd
