@@ -62,6 +62,9 @@ Adding velocity controls:
 	- increase the number of control vars based on optim error output 
 	- rebuild optim 
 
+Future testing to look at the value of the improved initial conditions:
+- run forward (like from 2 months into the run) with initial condition from TPOSE6 and initial condition from velocity estimation
+- rerun iter20 forward run without uv controls - see how much the cost changes (explicitly asking what is the value of optimized u v initial state)
 
 
 Sensitivity Experiments:
