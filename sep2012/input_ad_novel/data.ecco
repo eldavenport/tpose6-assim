@@ -1,0 +1,77 @@
+# ******************
+# ECCO cost function
+# ******************
+#
+ &ECCO_COST_NML
+#
+ using_cost_sst = .TRUE.,
+ using_cost_altim = .TRUE.,
+#
+ cost_iprec  = 32,
+ cost_yftype = 'RL',
+#
+ /
+#
+ &ECCO_GENCOST_NML
+# MUCH SAFER TO LET STARTDATE = MODELSTARTDATE. Test OK if not using!!
+# see "MITgcm_contrib/gael/verification/global_oce_llc90/input.ecco_v4/data.ecco"
+#
+# SST -- this is normal gencost 
+ gencost_avgperiod(1)  = 'day',
+ gencost_startdate1(1) = 20100101,
+ gencost_startdate2(1) = 00000,
+ gencost_barfile(1) = 'm_sst_day',
+ gencost_datafile(1) = 'mw_fusion_tpose6',
+ gencost_errfile(1) = 'SST_error_tpose6_17Sto17N.bin',
+ gencost_name(1) = 'sst-MW',
+ gencost_spmin(1) = -1.8,
+ gencost_spmax(1) = 40.,
+ gencost_spzero(1) = 0.,
+ gencost_outputlevel(1)=1,
+# low factor because daily data not independent
+ mult_gencost(1) = 0.01,
+#
+# MDT SHOULD BE GIVEN IN METERS BUT SSH IN CM!!
+ gencost_datafile(2) = 'dtu19mdt2_cm_tpose6.bin',
+ gencost_startdate1(2) = 20010101,
+ gencost_startdate2(2) = 00000,
+ gencost_errfile(2) = 'geoid_error_tpose6_17Sto17N.bin',
+ gencost_name(2) = 'sshv4-mdt',
+ gencost_outputlevel(2)=1,
+# 10 cm error
+ mult_gencost(2) = 0.1,
+# SSH IN CM
+ gencost_startdate1(3) = 20100101,
+ gencost_startdate2(3) = 00000,
+ gencost_barfile(3) = 'm_eta_day',
+ gencost_datafile(3) = 'rads_ja_tpose6_QC',
+ gencost_avgperiod(3)  = 'day',
+ gencost_errfile(3) = 'ssh_error_tpose6_17Sto17N_3cm_in_m.bin',
+ gencost_name(3) = 'sshv4-tp',
+ gencost_outputlevel(3)=1,
+# 3 cm error
+ mult_gencost(3) = 1.0,
+#
+ gencost_startdate1(4) = 20100101,
+ gencost_startdate2(4) = 00000,
+ gencost_barfile(4) = 'm_eta_day',
+ gencost_datafile(4) = 'rads_sa_tpose6_QC',
+ gencost_avgperiod(4)  = 'day',
+ gencost_errfile(4) = 'ssh_error_tpose6_17Sto17N_6cm_in_m.bin',
+ gencost_name(4) = 'sshv4-ers',
+ gencost_outputlevel(4)=1,
+# 6 cm error
+ mult_gencost(4) = 1.0,
+#
+ gencost_startdate1(5) = 20100101,
+ gencost_startdate2(5) = 00000,
+ gencost_barfile(5) = 'm_eta_day',
+ gencost_datafile(5) = 'rads_c2_tpose6_QC',
+ gencost_avgperiod(5)  = 'day',
+ gencost_errfile(5) = 'ssh_error_tpose6_17Sto17N_6cm_in_m.bin',
+ gencost_name(5) = 'sshv4-gfo',
+ gencost_outputlevel(5)=1,
+# 6 cm error
+ mult_gencost(5) = 1.0,
+ /
+#

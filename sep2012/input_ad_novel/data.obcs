@@ -1,0 +1,38 @@
+# Open-boundaries
+ &OBCS_PARM01
+ OB_Jnorth = 1128*336,
+ OB_Jsouth = 1128*1,
+ OB_Iwest  = 336*1,
+#
+ useOBCSsponge = .true.,
+ useOBCSprescribe = .true.,
+#
+# OBWuFile = 'U_obcw_zeronet_hycom_troppac6_66_2010to2018.bin',
+ OBWuFile = 'U_obcw_aviso2_hycom_troppac6_66_2010to2018.bin',
+ OBWvFile = 'V_obcw_zeros_troppac6_66_2010to2018.bin',
+ OBWtFile = 'T_obcw_hycom_troppac6_66_2010to2018.bin',
+ OBWsFile = 'S_obcw_hycom_troppac6_66_2010to2018.bin',
+ OBNuFile = 'U_obcn_zeros_troppac6_66_2010to2018.bin',
+ OBNvFile = 'V_obcn_bal2_hycom_troppac6_66_2010to2018.bin',
+ OBNtFile = 'T_obcn_hycom_troppac6_66_2010to2018.bin',
+ OBNsFile = 'S_obcn_hycom_troppac6_66_2010to2018.bin',
+ OBSuFile = 'U_obcs_zeros_troppac6_66_2010to2018.bin',
+ OBSvFile = 'V_obcs_bal2_hycom_troppac6_66_2010to2018.bin',
+ OBStFile = 'T_obcs_hycom_troppac6_66_2010to2018.bin',
+ OBSsFile = 'S_obcs_hycom_troppac6_66_2010to2018.bin',
+ /
+
+# Orlanski parameters
+ &OBCS_PARM02
+#Cmax = 0.45,
+#cVelTimeScale = 1000.,
+ /
+
+# Sponge layer parameters
+ &OBCS_PARM03
+ spongeThickness = 6,
+ Urelaxobcsinner = 1728000.,
+ Urelaxobcsbound = 86400.,
+ Vrelaxobcsinner = 1728000.,
+ Vrelaxobcsbound = 86400.,
+ /

@@ -1,0 +1,140 @@
+# ====================
+# | Model parameters |
+# ====================
+#
+# Continuous equation parameters
+ &PARM01
+# LLC4320:
+# viscAr= 5.6614e-04,
+ no_slip_sides = .TRUE.,
+ no_slip_bottom = .TRUE.,
+# diffKrT=5.44e-7,
+# diffKrS=5.44e-7,
+ viscC4Leith=2.15,
+ viscC4Leithd=2.15,
+ viscA4GridMax=0.8,
+# cannot mix z, p and r
+# viscAz=5.6614e-04,
+ diffKzT=5e-6,
+ diffKzS=5e-6,
+# TPOSE:
+ viscAz=2.E-5,
+# viscAh=5.E2,
+# viscA4=1.E11,
+# viscA4=1.E10,
+ diffKhT=1.E2,
+# diffKzT=5.E-6,
+# diffK4T=1.E8,
+ diffKhS=1.E2,
+# diffKzS=5.E-6,
+# diffK4S=1.E8,
+ bottomDragQuadratic = 0.002,
+ useAreaViscLength=.TRUE.,
+ beta=1.E-11,
+ tAlpha=2.E-4,
+ sBeta =7.4E-4,
+ rhonil=1035.,
+ rhoConstFresh=1000.,
+ gravity=9.81,
+ eosType = 'JMD95Z',
+ implicitDiffusion=.true.,
+ implicitViscosity=.true.,
+ implicitFreeSurface=.true.,
+ allowFreezing=.FALSE.,
+ convertFW2Salt = -1.,
+ useRealFreshWaterFlux=.TRUE.,
+ useCDscheme=.FALSE.,
+ useSingleCpuIO=.TRUE.,
+ vectorInvariantMomentum=.TRUE.,
+ staggerTimeStep=.TRUE.,
+ multiDimAdvection=.TRUE.,
+ tempAdvScheme=30,
+ saltAdvScheme=30,
+ tempVertAdvScheme=3,
+ saltVertAdvScheme=3,
+ tempImplVertAdv=.TRUE.,
+ saltImplVertAdv=.TRUE.,
+ exactConserv=.FALSE.,
+# nonlinfreesurf = 4,
+# select_rStar=2,
+# turn on lopped cells
+ hFacMin=0.3,
+ hFacMindz=50.,
+# set precision of data files
+ readBinaryPrec=32,
+ writeBinaryPrec=32,
+ globalfiles=.FALSE.,
+ rotationPeriod=86164.,
+ debugLevel=0,
+ /
+
+# Elliptic solver parameters
+ &PARM02
+ cg2dMaxIters = 300,
+ cg2dTargetResidual=1.E-8,
+ /
+
+# Time stepping parameters
+ &PARM03
+ nIter0 =  0,
+# 122 days at 20 min time steps
+ nTimeSteps = 8784,
+# 10 days at 20 min time steps
+# nTimeSteps = 720,
+ deltaTmom   = 1200.0,
+ deltaTtracer= 1200.0,
+ deltaTClock = 1200.0,
+ pickupStrictlyMatch=.FALSE.,
+ dumpInitAndLast=.TRUE.
+ writePickupAtEnd=.TRUE.,
+# pChkptFreq= 2628000.,
+ pChkptFreq= 0.,
+ dumpFreq=   5270400.,
+ taveFreq=   0.,
+ adjDumpFreq=  86400.,
+ monitorFreq= 0.0,
+ forcing_In_AB = .FALSE.,
+ momDissip_In_AB=.FALSE.,
+ doAB_onGtGs=.FALSE.,
+ alph_AB=0.5,
+ beta_AB=0.281105,
+#
+ periodicExternalForcing=.TRUE.,
+ externForcingPeriod=2629800.,
+ externForcingCycle=31557600.,
+#
+ /
+
+# Gridding parameters
+ &PARM04
+ usingCartesianGrid=.FALSE.,
+ usingSphericalPolarGrid=.TRUE.,
+ ygOrigin   = -26.,
+ xgOrigin   = 104.,
+ delY   = 336*0.166666666666666666667,
+ delX   = 1128*0.166666666666666666667,
+ delZ   = 2.0,  2.0,  2.0,  2.0,  2.0,  2.0,  3.0,  3.0,   
+3.5,   3.5,   5.0,   5.0,   5.0,   5.0,   5.0,   5.0,   
+5.0,   5.0,   7.0,   8.0,  10.0,  10.0,  10.0,  10.0,
+10.0,  10.0,  10.0,  10.0,  10.0,  10.0,  10.0,  10.0,  
+10.0,  10.0,  15.0,  15.0,  25.0,  25.0,  30.0,  30.0,  
+40.0,  50.0,  50.0,  50.0,  50.0,  75.0,  75.0,  75.0,
+75.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 200.0, 
+300.0, 300.0, 300.0, 400.0, 500.0, 500.0, 500.0, 500.0, 
+500.0, 500.0,
+#
+ /
+
+# Input datasets
+ &PARM05
+ bathyFile       = 'bathy_tpose6_etopo1_revised2.bin',
+ hydrogThetaFile = 'T_assim_sep2012',
+ hydrogSaltFile  = 'S_assim_sep2012',
+ uVelInitFile    = 'U_assim_sep2012',
+ vVelInitFile    = 'V_assim_sep2012',
+ viscAhDfile     = 'viscAhZ_1e2.bin',
+ viscAhZfile     = 'viscAhD_1e2.bin',
+# mdsioLocalDir   = '/scratch/averdy/',
+# adTapeDir       = '/oasis/tscc/scratch/averdy/tape/',
+ adTapeDir       = '/glade/derecho/scratch/edavenport/temp/',
+ /
