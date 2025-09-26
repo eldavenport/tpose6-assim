@@ -31,6 +31,7 @@ frequency(2) = 86400.0,
         'oceFWflx',
         'EXFtaux ',
         'EXFtauy ',
+	'KPPhbl  ',
         filename(2) = 'diag_surf',
 #---
 frequency(3) = 86400.0,
@@ -88,6 +89,28 @@ frequency(3) = 86400.0,
         'KPPg_SLT',
         'TOTSTEND',
         filename(7) = 'diag_salt_budget',
+#---
+   frequency(8) = 86400.0,
+        fields(1,8) = 'KPPviscA',
+        'KPPdiffT',
+        'KPPdiffS',
+        filename(8) = 'diag_kpp',
+#----write snap every 61 days for IC's
+frequency(9) = -86400.0,
+	fields(1,9) = 'THETA   ',
+	filename(9) = 'diag_THETA_snap',
+#---
+frequency(10) = -86400.0,
+	fields(1,10) = 'SALT    ',
+	filename(10) = 'diag_SALT_snap',
+#---
+frequency(11) = -86400.0,
+	fields(1,11) = 'UVEL    ',
+	filename(11) = 'diag_UVEL_snap',
+#---
+frequency(12) = -86400.0,
+	fields(1,12) = 'VVEL    ',
+	filename(12) = 'diag_VVEL_snap',
  /
 #
 # Parameter for Diagnostics of per level statistics:
