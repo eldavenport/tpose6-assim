@@ -32,6 +32,10 @@ Changing Between Runs:
 	- ex: T_assim_2013.data and .meta
 - update input/data (or data_ad) to use the updated previous state files
 	- at the bottom of data
+- add necessary constraints and linked_files (e.g., 2013 constraints)
+	- update data.profiles
+	- no updates necessary to data.ecco or data.exf
+
 
 Adding velocity contraints:
 - add weights to profiles (make sure weights are 0 for -9999 values)
