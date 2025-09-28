@@ -128,10 +128,10 @@
 # Input datasets
  &PARM05
  bathyFile       = 'bathy_tpose6_etopo1_revised2.bin',
- hydrogThetaFile = 'T_assim_sep2012',
- hydrogSaltFile  = 'S_assim_sep2012',
- uVelInitFile    = 'U_assim_sep2012',
- vVelInitFile    = 'V_assim_sep2012',
+ hydrogThetaFile = 'T_assim_nov2012',
+ hydrogSaltFile  = 'S_assim_nov2012',
+ uVelInitFile    = 'U_assim_nov2012',
+ vVelInitFile    = 'V_assim_nov2012',
  viscAhDfile     = 'viscAhZ_1e2.bin',
  viscAhZfile     = 'viscAhD_1e2.bin',
 # mdsioLocalDir   = '/scratch/averdy/',
