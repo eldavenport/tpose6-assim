@@ -96,21 +96,21 @@ frequency(3) = 86400.0,
         'KPPdiffS',
         filename(8) = 'diag_kpp',
 #----write snap every 1 days for IC's
-frequency(9) = -86400.0,
-	fields(1,9) = 'THETA   ',
-	filename(9) = 'diag_THETA_snap',
+#frequency(9) = -86400.0,
+#	fields(1,9) = 'THETA   ',
+#	filename(9) = 'diag_THETA_snap',
 #---
-frequency(10) = -86400.0,
-	fields(1,10) = 'SALT    ',
-	filename(10) = 'diag_SALT_snap',
+#frequency(10) = -86400.0,
+#	fields(1,10) = 'SALT    ',
+#	filename(10) = 'diag_SALT_snap',
 #---
-frequency(11) = -86400.0,
-	fields(1,11) = 'UVEL    ',
-	filename(11) = 'diag_UVEL_snap',
+#frequency(11) = -86400.0,
+#	fields(1,11) = 'UVEL    ',
+#	filename(11) = 'diag_UVEL_snap',
 #---
-frequency(12) = -86400.0,
-	fields(1,12) = 'VVEL    ',
-	filename(12) = 'diag_VVEL_snap',
+#frequency(12) = -86400.0,
+#	fields(1,12) = 'VVEL    ',
+#	filename(12) = 'diag_VVEL_snap',
  /
 #
 # Parameter for Diagnostics of per level statistics:
