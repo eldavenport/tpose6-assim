@@ -99,18 +99,22 @@ frequency(3) = 86400.0,
 frequency(9) = -86400.0,
 	fields(1,9) = 'THETA   ',
 	filename(9) = 'diag_THETA_snap',
+	timePhase(9) = 0.0,
 #---
 frequency(10) = -86400.0,
 	fields(1,10) = 'SALT    ',
 	filename(10) = 'diag_SALT_snap',
+	timePhase(10) = 0.0,
 #---
 frequency(11) = -86400.0,
 	fields(1,11) = 'UVEL    ',
 	filename(11) = 'diag_UVEL_snap',
+	timePhase(11) = 0.0,
 #---
 frequency(12) = -86400.0,
 	fields(1,12) = 'VVEL    ',
 	filename(12) = 'diag_VVEL_snap',
+	timePhase(12) = 0.0,
  /
 #
 # Parameter for Diagnostics of per level statistics:
