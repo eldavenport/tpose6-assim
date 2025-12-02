@@ -35,13 +35,13 @@
  mult_genarr3d(2) = 1.0,
 
 
- xx_genarr3d_weight(3) = 'TAO_uvel_wt_tp6.bin',
+ xx_genarr3d_weight(3) = 'TAO_uvel_wt_tp6_new.bin',
  xx_genarr3d_file(3)='xx_uvel',
  xx_genarr3d_preproc(1,3)='smooth',
  mult_genarr3d(3) = 1.0,
 
 # 3D bin single precision weight files (same shape as ICs)
- xx_genarr3d_weight(4) = 'TAO_vvel_wt_tp6.bin',
+ xx_genarr3d_weight(4) = 'TAO_vvel_wt_tp6_new.bin',
  xx_genarr3d_file(4)='xx_vvel',
  xx_genarr3d_preproc(1,4)='smooth',
  mult_genarr3d(4) = 1.0,
