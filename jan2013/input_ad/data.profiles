@@ -1,0 +1,39 @@
+#
+#
+# ******************
+# PROFILES cost function
+# ******************
+ &PROFILES_NML
+ profilesDir = 'PROF',
+ profilesfiles(1) = 'TAO_WO_2013_CTD_daily',
+ profilesfiles(2) = 'USGO_TP_2013_PFL_D_w',
+ profilesfiles(3) = 'HDO_TP_2013_CTD_w',
+ profilesfiles(4) = 'WOD_TP_2013_XBT_w',
+ profilesfiles(5) = 'WOD_TP_2013_GLD_qc',
+ profilesfiles(6) = 'SIO_TP_2013_XBT_w',
+ profilesfiles(7) = 'TAO_WO_2013_ADCP',
+ profilesfiles(8) = 'TAO_WO_2013_CUR',
+ prof_names(7,3) = 'prof_U',
+ prof_names(7,4) = 'prof_V',
+ prof_names(8,3) = 'prof_U',
+ prof_names(8,4) = 'prof_V',
+ prof_namesmod(7,3) = 'UE',
+ prof_namesmod(7,4) = 'VN',
+ prof_namesmod(8,3) = 'UE',
+ prof_namesmod(8,4) = 'VN',
+ mult_profiles(1,1)   = 1.0,
+ mult_profiles(1,2)   = 1.0,
+ mult_profiles(2,1)   = 2.0,
+ mult_profiles(2,2)   = 2.0,
+ mult_profiles(3,1)   = 2.0,
+ mult_profiles(3,2)   = 2.0,
+ mult_profiles(4,1)   = 2.0,
+ mult_profiles(4,2)   = 2.0,
+ mult_profiles(5,1)   = 0.0,
+ mult_profiles(5,2)   = 0.0,
+ mult_profiles(7,3)   = 1.0,
+ mult_profiles(7,4)   = 1.0,
+ mult_profiles(8,3)   = 1.0,
+ mult_profiles(8,4)   = 1.0,
+ /
+
