@@ -34,7 +34,7 @@ frequency(2) = 86400.0,
 	'KPPhbl  ',
         filename(2) = 'diag_surf',
 #---
-frequency(3) = 86400.0,
+#frequency(3) = 86400.0,
         fields(1,3) = 'ADVx_TH ',
         'ADVy_TH ',
         'ADVr_TH ',
