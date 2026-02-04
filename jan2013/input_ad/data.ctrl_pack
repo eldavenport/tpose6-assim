@@ -47,7 +47,7 @@
 #
  xx_gentim2d_weight(1) = 'ERA_tmp2m_degC_wt_tp6.bin',
  xx_gentim2d_file(1)='xx_atemp',
- xx_gentim2d_startdate1(1)=20121101,
+ xx_gentim2d_startdate1(1)=20130101,
  xx_gentim2d_startdate2(1)=00000,
  xx_gentim2d_period(1)=864000.0,
  xx_gentim2d_preproc_i(1,1)=1,
@@ -56,7 +56,7 @@
 #
  xx_gentim2d_weight(2) = 'ERA_spfh2m_wt_tp6.bin',
  xx_gentim2d_file(2)='xx_aqh',
- xx_gentim2d_startdate1(2)=20121101,
+ xx_gentim2d_startdate1(2)=20130101,
  xx_gentim2d_startdate2(2)=00000,
  xx_gentim2d_period(2)=864000.0,
  xx_gentim2d_preproc_i(1,2)=1,
@@ -65,7 +65,7 @@
 #
  xx_gentim2d_weight(3) = 'ERA_rain_wt_tp6.bin',
  xx_gentim2d_file(3)='xx_precip',
- xx_gentim2d_startdate1(3)=20121101,
+ xx_gentim2d_startdate1(3)=20130101,
  xx_gentim2d_startdate2(3)=00000,
  xx_gentim2d_period(3)=864000.0,
  xx_gentim2d_preproc_i(1,3)=1,
@@ -74,7 +74,7 @@
 #
  xx_gentim2d_weight(4) = 'ERA_dsw_wt_tp6.bin',
  xx_gentim2d_file(4)='xx_swdown',
- xx_gentim2d_startdate1(4)=20121101,
+ xx_gentim2d_startdate1(4)=20130101,
  xx_gentim2d_startdate2(4)=00000,
  xx_gentim2d_period(4)=864000.0,
  xx_gentim2d_preproc_i(1,4)=1,
@@ -83,7 +83,7 @@
 #
  xx_gentim2d_weight(5) = 'ERA_dlw_wt_tp6.bin',
  xx_gentim2d_file(5)='xx_lwdown',
- xx_gentim2d_startdate1(5)=20121101,
+ xx_gentim2d_startdate1(5)=20130101,
  xx_gentim2d_startdate2(5)=00000,
  xx_gentim2d_period(5)=864000.0,
  xx_gentim2d_preproc_i(1,5)=1,
@@ -92,7 +92,7 @@
 #
  xx_gentim2d_weight(6) = 'ERA_u10m_wt_tp6.bin',
  xx_gentim2d_file(6)='xx_uwind',
- xx_gentim2d_startdate1(6)=20121101,
+ xx_gentim2d_startdate1(6)=20130101,
  xx_gentim2d_startdate2(6)=00000,
  xx_gentim2d_period(6)=864000.0,
  xx_gentim2d_preproc_i(1,6)=1,
@@ -101,7 +101,7 @@
 #
  xx_gentim2d_weight(7) = 'ERA_v10m_wt_tp6.bin',
  xx_gentim2d_file(7)='xx_vwind',
- xx_gentim2d_startdate1(7)=20121101,
+ xx_gentim2d_startdate1(7)=20130101,
  xx_gentim2d_startdate2(7)=00000,
  xx_gentim2d_period(7)=864000.0,
  xx_gentim2d_preproc_i(1,7)=1,
