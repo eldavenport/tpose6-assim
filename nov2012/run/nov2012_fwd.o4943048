@@ -1,0 +1,318 @@
+
+Currently Loaded Modules:
+  1) ncarenv/23.09 (S)   2) intel/2023.2.1   3) intel-mpi/2021.10.0 (H)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+
+ 
+
+mkdir: cannot create directory ‘/glade/derecho/scratch/edavenport/temp’: File exists
+ln: failed to create symbolic link './EURO_TP_2013_PFL_D_w.nc': File exists
+ln: failed to create symbolic link './HDO_TP_2012_CTD_w.nc': File exists
+ln: failed to create symbolic link './HDO_TP_2013_CTD_w.nc': File exists
+ln: failed to create symbolic link './mw_fusion_tpose6_2012': File exists
+ln: failed to create symbolic link './mw_fusion_tpose6_2013': File exists
+ln: failed to create symbolic link './NODC_TP_2012_MRB_w.nc': File exists
+ln: failed to create symbolic link './NODC_TP_2013_MRB_w.nc': File exists
+ln: failed to create symbolic link './rads_c2_tpose6_QC_2012': File exists
+ln: failed to create symbolic link './rads_c2_tpose6_QC_2013': File exists
+ln: failed to create symbolic link './rads_ja_tpose6_QC_2012': File exists
+ln: failed to create symbolic link './rads_ja_tpose6_QC_2013': File exists
+ln: failed to create symbolic link './SIO_TP_2012_SPR_w.nc': File exists
+ln: failed to create symbolic link './SIO_TP_2012_XBT_w.nc': File exists
+ln: failed to create symbolic link './SIO_TP_2013_SPR_w.nc': File exists
+ln: failed to create symbolic link './SIO_TP_2013_XBT_w.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2012_ADCP.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2012_ADCP_v2.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2012_CTD_daily.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2012_CUR.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2012_CUR_v2.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2013_ADCP.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2013_CTD_daily.nc': File exists
+ln: failed to create symbolic link './TAO_WO_2013_CUR.nc': File exists
+ln: failed to create symbolic link './USGO_TP_2012_PFL_D_w.nc': File exists
+ln: failed to create symbolic link './USGO_TP_2013_PFL_D_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2012_CTD_OSD_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2012_GLD_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2012_MRB_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2012_XBT_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2013_CTD_OSD_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2013_GLD_A_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2013_GLD_B_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2013_GLD_qc.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2013_MRB_w.nc': File exists
+ln: failed to create symbolic link './WOD_TP_2013_XBT_w.nc': File exists
+ln: failed to create symbolic link './Argo_S_wt_fac10_tp6_66.bin': File exists
+ln: failed to create symbolic link './Argo_T_wt_fac10_tp6_66.bin': File exists
+ln: failed to create symbolic link './bathy_tpose6_etopo1_revised2.bin': File exists
+ln: failed to create symbolic link './dtu19mdt2_cm_tpose6.bin': File exists
+ln: failed to create symbolic link './ERA_dlw_wt_tp6.bin': File exists
+ln: failed to create symbolic link './ERA_dsw_wt_tp6.bin': File exists
+ln: failed to create symbolic link './ERA_rain_wt_tp6.bin': File exists
+ln: failed to create symbolic link './ERA_spfh2m_wt_tp6.bin': File exists
+ln: failed to create symbolic link './ERA_tmp2m_degC_wt_tp6.bin': File exists
+ln: failed to create symbolic link './ERA_u10m_wt_tp6.bin': File exists
+ln: failed to create symbolic link './ERA_v10m_wt_tp6.bin': File exists
+ln: failed to create symbolic link './geoid_error_tpose6_17Sto17N.bin': File exists
+ln: failed to create symbolic link './river_runoff_troppac6.bin': File exists
+ln: failed to create symbolic link './S_obcn_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './S_obcs_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './S_obcw_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './ssh_error_tpose6_17Sto17N_3cm_in_m.bin': File exists
+ln: failed to create symbolic link './ssh_error_tpose6_17Sto17N_6cm_in_m.bin': File exists
+ln: failed to create symbolic link './SST_error_tpose6_17Sto17N.bin': File exists
+ln: failed to create symbolic link './TAO_uvel_wt_tp6.bin': File exists
+ln: failed to create symbolic link './TAO_uvel_wt_tp6_new.bin': File exists
+ln: failed to create symbolic link './TAO_vvel_wt_tp6.bin': File exists
+ln: failed to create symbolic link './TAO_vvel_wt_tp6_new.bin': File exists
+ln: failed to create symbolic link './T_obcn_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './T_obcs_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './T_obcw_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './U_obcn_zeros_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './U_obcs_zeros_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './U_obcw_aviso2_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './viscAhD_1e2.bin': File exists
+ln: failed to create symbolic link './viscAhZ_1e2.bin': File exists
+ln: failed to create symbolic link './V_obcn_bal2_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './V_obcs_bal2_hycom_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './V_obcw_zeros_troppac6_66_2010to2018.bin': File exists
+ln: failed to create symbolic link './ERA5_dlw_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_dlw_troppac6_2013': File exists
+ln: failed to create symbolic link './ERA5_dsw_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_dsw_troppac6_2013': File exists
+ln: failed to create symbolic link './ERA5_rain_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_rain_troppac6_2013': File exists
+ln: failed to create symbolic link './ERA5_spfh2m_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_spfh2m_troppac6_2013': File exists
+ln: failed to create symbolic link './ERA5_tmp2m_degC_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_tmp2m_degC_troppac6_2013': File exists
+ln: failed to create symbolic link './ERA5_u10m_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_u10m_troppac6_2013': File exists
+ln: failed to create symbolic link './ERA5_v10m_troppac6_2012': File exists
+ln: failed to create symbolic link './ERA5_v10m_troppac6_2013': File exists
+ln: failed to create symbolic link './S_assim_jan2013.data': File exists
+ln: failed to create symbolic link './S_assim_jan2013.meta': File exists
+ln: failed to create symbolic link './S_assim_nov2012.data': File exists
+ln: failed to create symbolic link './S_assim_nov2012.meta': File exists
+ln: failed to create symbolic link './S_assim_nov2012_noVel.data': File exists
+ln: failed to create symbolic link './S_assim_nov2012_noVel.meta': File exists
+ln: failed to create symbolic link './S_assim_sep2012.data': File exists
+ln: failed to create symbolic link './T_assim_jan2013.data': File exists
+ln: failed to create symbolic link './T_assim_jan2013.meta': File exists
+ln: failed to create symbolic link './T_assim_nov2012.data': File exists
+ln: failed to create symbolic link './T_assim_nov2012.meta': File exists
+ln: failed to create symbolic link './T_assim_nov2012_noVel.data': File exists
+ln: failed to create symbolic link './T_assim_nov2012_noVel.meta': File exists
+ln: failed to create symbolic link './T_assim_sep2012.data': File exists
+ln: failed to create symbolic link './U_assim_jan2013.data': File exists
+ln: failed to create symbolic link './U_assim_jan2013.meta': File exists
+ln: failed to create symbolic link './U_assim_nov2012.data': File exists
+ln: failed to create symbolic link './U_assim_nov2012.meta': File exists
+ln: failed to create symbolic link './U_assim_nov2012_noVel.data': File exists
+ln: failed to create symbolic link './U_assim_nov2012_noVel.meta': File exists
+ln: failed to create symbolic link './U_assim_sep2012.data': File exists
+ln: failed to create symbolic link './V_assim_jan2013.data': File exists
+ln: failed to create symbolic link './V_assim_jan2013.meta': File exists
+ln: failed to create symbolic link './V_assim_nov2012.data': File exists
+ln: failed to create symbolic link './V_assim_nov2012.meta': File exists
+ln: failed to create symbolic link './V_assim_nov2012_noVel.data': File exists
+ln: failed to create symbolic link './V_assim_nov2012_noVel.meta': File exists
+ln: failed to create symbolic link './V_assim_sep2012.data': File exists
+rm: cannot remove 'STD*': No such file or directory
+rm: cannot remove 'costfinal': No such file or directory
+rm: cannot remove 'PROF': No such file or directory
+rm: cannot remove '*equi*': No such file or directory
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END
+NORMAL END

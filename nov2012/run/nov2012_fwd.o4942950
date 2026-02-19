@@ -1,0 +1,1909 @@
+
+Currently Loaded Modules:
+  1) ncarenv/23.09 (S)   2) intel/2023.2.1   3) intel-mpi/2021.10.0 (H)
+
+  Where:
+   H:  Hidden Module
+   S:  Module is Sticky, requires --force to unload or purge
+
+ 
+
+mkdir: cannot create directory ‘/glade/derecho/scratch/edavenport/temp’: File exists
+rm: cannot remove 'STD*': No such file or directory
+rm: cannot remove 'output*': No such file or directory
+rm: cannot remove 'costfinal': No such file or directory
+rm: cannot remove 'PROF': No such file or directory
+rm: cannot remove '*equi*': No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: No such file or directory
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000148DDE90DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000148DDCBCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000148DDCBCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000145C22D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000145C20FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000145C20FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014C6B6F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014C6B51CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014C6B51CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014C90790DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014C905BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014C905BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001486C8B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001486C6DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001486C6DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014777750DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001477757CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001477757CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F0B010DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F0AE3CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F0AE3CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149FAF50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149FAD7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149FAD7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000150B33D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000150B31FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000150B31FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015364930DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001536475CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001536475CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000146DC450DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000146DC27CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000146DC27CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F46C70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F46A9CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F46A9CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A9A450DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A9A27CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A9A27CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014715630DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001471545CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001471545CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000147E1D6F7EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000147E18F5AE6C  Unknown               Unknown  Unknown
+libc.so.6          0000147E18F5AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001478C630DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001478C45CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001478C45CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152F5750DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152F557CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000152F557CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149C31F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149C301CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149C301CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152EDB50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152ED97CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000152ED97CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149DCEB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149DCCDCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149DCCDCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014AE5CD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014AE5AF51E6C  Unknown               Unknown  Unknown
+libc.so.6          000014AE5AF51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014586310DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001458613CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001458613CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B41D30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B41B551E6C  Unknown               Unknown  Unknown
+libc.so.6          000014B41B551F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000153B7010DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000153B6E3CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000153B6E3CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001461A7B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001461A5DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001461A5DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001517B430DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001517B25CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001517B25CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015232530DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001523235CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001523235CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149EB5B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149EB3DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149EB3DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152A03F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152A02151E6C  Unknown               Unknown  Unknown
+libc.so.6          0000152A02151F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014E64710DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014E6453CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014E6453CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015350070DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001534FE9CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001534FE9CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014C39BD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014C399FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014C399FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015019F10DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015019D3CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015019D3CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015171B70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001517199CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001517199CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014D544B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014D542DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014D542DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000148B49B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000148B47DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000148B47DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001549EB30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001549E95CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001549E95CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001490AFD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001490ADF51E6C  Unknown               Unknown  Unknown
+libc.so.6          00001490ADF51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000145963B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000145961DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000145961DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154D4290DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154D40BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000154D40BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015339BF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015339A151E6C  Unknown               Unknown  Unknown
+libc.so.6          000015339A151F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014D1DF30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014D1DD5CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014D1DD5CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014DFA750DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014DFA57CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014DFA57CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014DDF150DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014DDEF7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014DDEF7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A30E30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A30C5CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A30C5CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A19A30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A198551E6C  Unknown               Unknown  Unknown
+libc.so.6          000014A198551F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014689F90DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014689DBCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014689DBCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F82710DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F8253CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F8253CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001456F8B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001456F6D51E6C  Unknown               Unknown  Unknown
+libc.so.6          00001456F6D51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015327310DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001532713CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001532713CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B9B8F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B9B71CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014B9B71CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014FC1FB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014FC1DDCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014FC1DDCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152CFD70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152CFB951E6C  Unknown               Unknown  Unknown
+libc.so.6          0000152CFB951F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F44990DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F447BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F447BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000150EF870DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000150EF69CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000150EF69CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000148FAAB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000148FA8D51E6C  Unknown               Unknown  Unknown
+libc.so.6          0000148FA8D51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A4DFB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A4DDDCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A4DDDCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015407A2EDEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154075B5AE6C  Unknown               Unknown  Unknown
+libc.so.6          0000154075B5AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000153803F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000153802151E6C  Unknown               Unknown  Unknown
+libc.so.6          0000153802151F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014914830DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001491465CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001491465CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001491C7F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001491C61CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001491C61CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014AE6F10DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014AE6D3CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014AE6D3CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015481D50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015481B751E6C  Unknown               Unknown  Unknown
+libc.so.6          000015481B751F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000151FDEF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000151FDD1CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000151FDD1CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015163F50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015163D7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015163D7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014930110DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001492FF3CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001492FF3CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000146F8F2D7EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000146F8AB5AE6C  Unknown               Unknown  Unknown
+libc.so.6          0000146F8AB5AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001484C370DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001484C19CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001484C19CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000150FE050DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000150FDE7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000150FDE7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154E9890DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154E96B51E6C  Unknown               Unknown  Unknown
+libc.so.6          0000154E96B51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152C4170DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152C3F951E6C  Unknown               Unknown  Unknown
+libc.so.6          0000152C3F951F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015434E30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015434C5CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015434C5CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014919DB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014919BDCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014919BDCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014FE36B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014FE34DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014FE34DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015084A0F1EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015084595AE6C  Unknown               Unknown  Unknown
+libc.so.6          000015084595AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014DCF9D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014DCF7FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014DCF7FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000153BEDD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000153BEBFCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000153BEBFCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000145DC410DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000145DC2351E6C  Unknown               Unknown  Unknown
+libc.so.6          0000145DC2351F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154AF6F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154AF51CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000154AF51CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014561810DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001456163CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001456163CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014E038F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014E0371CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014E0371CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001533E9B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001533E7D51E6C  Unknown               Unknown  Unknown
+libc.so.6          00001533E7D51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014EFCA4D6EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014EFC5D5AE6C  Unknown               Unknown  Unknown
+libc.so.6          000014EFC5D5AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014612370DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001461219CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001461219CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A45E70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A45C951E6C  Unknown               Unknown  Unknown
+libc.so.6          000014A45C951F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014738E70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014738C9CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014738C9CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149A5ED0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149A5CFCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149A5CFCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A9D76EBEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A9D2F5AE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A9D2F5AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001542CF90DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001542CDBCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001542CDBCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F27750DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F2757CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F2757CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000147FECD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000147FEAFCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000147FEAFCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015347AF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001534791CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001534791CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F52CD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F52AFCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F52AFCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001484ADF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001484AC151E6C  Unknown               Unknown  Unknown
+libc.so.6          00001484AC151F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001470BBD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001470B9FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001470B9FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015152C30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015152A551E6C  Unknown               Unknown  Unknown
+libc.so.6          000015152A551F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A0B9D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A0B7FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A0B7FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F469B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F467DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F467DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F262F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F2611CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F2611CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154DE2ED7EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154DDE75AE6C  Unknown               Unknown  Unknown
+libc.so.6          0000154DDE75AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152D4C30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152D4A551E6C  Unknown               Unknown  Unknown
+libc.so.6          0000152D4A551F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154BFB50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154BF9751E6C  Unknown               Unknown  Unknown
+libc.so.6          0000154BF9751F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B61B10DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B6193CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014B6193CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154B7B90DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154B79BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000154B79BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014CB8590DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014CB83BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014CB83BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014629450DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001462927CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001462927CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000147A4470DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000147A429CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000147A429CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014E6DEEF4EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014E6DA75AE6C  Unknown               Unknown  Unknown
+libc.so.6          000014E6DA75AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014D56430DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014D5625CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014D5625CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014CE57B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014CE55D51E6C  Unknown               Unknown  Unknown
+libc.so.6          000014CE55D51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014D0A6D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014D0A4FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014D0A4FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B287AD8EBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B28335AE6C  Unknown               Unknown  Unknown
+libc.so.6          000014B28335AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B61990DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B617BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014B617BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A03170DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A02F9CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A02F9CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000147FA8D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000147FA6F51E6C  Unknown               Unknown  Unknown
+libc.so.6          0000147FA6F51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000151E30F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000151E2F1CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000151E2F1CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001471BA30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001471B85CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001471B85CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014BA4270DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014BA409CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014BA409CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000145A6090DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000145A5EBCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000145A5EBCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001492CFB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001492CDDCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001492CDDCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001543B050DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001543AE7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001543AE7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001511CBF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001511CA1CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001511CA1CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015215BB0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152159D51E6C  Unknown               Unknown  Unknown
+libc.so.6          0000152159D51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015125190DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015124FB51E6C  Unknown               Unknown  Unknown
+libc.so.6          000015124FB51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014E4DB50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014E4D97CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014E4D97CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015229FF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015229E1CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015229E1CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015549E50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015549C7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015549C7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015377EF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015377D1CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015377D1CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B39870DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B3969CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014B3969CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015440A30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001544085CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001544085CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014D49930DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014D4975CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014D4975CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015211A70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001521189CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001521189CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000145F21F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000145F20151E6C  Unknown               Unknown  Unknown
+libc.so.6          0000145F20151F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000150B7810DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000150B763CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000150B763CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001542A050DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015429E7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015429E7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001510A530DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001510A35CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001510A35CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000154067B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000154065DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000154065DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014C58A0DBEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014C58595AE6C  Unknown               Unknown  Unknown
+libc.so.6          000014C58595AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152F13D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152F11FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000152F11FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015032750DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001503257CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001503257CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014B53350DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014B531751E6C  Unknown               Unknown  Unknown
+libc.so.6          000014B531751F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014D1EF30DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014D1ED5CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014D1ED5CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014BE4CD0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014BE4AF51E6C  Unknown               Unknown  Unknown
+libc.so.6          000014BE4AF51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001531B3B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001531B1DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001531B1DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014ABC16EDEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014ABBCF5AE6C  Unknown               Unknown  Unknown
+libc.so.6          000014ABBCF5AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000015518770DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001551859CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001551859CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014932A70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001493289CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001493289CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001487C0CECEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001487BC55AE6C  Unknown               Unknown  Unknown
+libc.so.6          00001487BC55AF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014BB3250DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014BB307CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014BB307CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000150F1290DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000150F10BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000150F10BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014F53230DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014F5305CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014F5305CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001463CED0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001463CCFCEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001463CCFCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000153C2C50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000153C2A7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000153C2A7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000145903B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000145901D51E6C  Unknown               Unknown  Unknown
+libc.so.6          0000145901D51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149E63D0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149E61FCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149E61FCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014570A10DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001457083CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001457083CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000152ECA90DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000152EC8B51E6C  Unknown               Unknown  Unknown
+libc.so.6          0000152EC8B51F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000151F2E10DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000151F2C351E6C  Unknown               Unknown  Unknown
+libc.so.6          0000151F2C351F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149415F0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001494141CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001494141CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001502AD50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001502AB7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001502AB7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000149B6BF0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000149B6A1CEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000149B6A1CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000146C8790DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000146C85BCEE6C  Unknown               Unknown  Unknown
+libc.so.6          0000146C85BCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014EC43B0DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014EC41DCEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014EC41DCEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001539A010DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000015399E3CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000015399E3CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   0000146EAA70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          0000146EA8951E6C  Unknown               Unknown  Unknown
+libc.so.6          0000146EA8951F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001534B950DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001534B7751E6C  Unknown               Unknown  Unknown
+libc.so.6          00001534B7751F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   00001535B210DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          00001535B03CEE6C  Unknown               Unknown  Unknown
+libc.so.6          00001535B03CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014CE3C50DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014CE3A7CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014CE3A7CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014A4CE70DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014A4CC9CEE6C  Unknown               Unknown  Unknown
+libc.so.6          000014A4CC9CEF35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+forrtl: severe (29): file not found, unit 13, file /glade/derecho/scratch/edavenport/assim/tpose/nov2012/run_fwd/fort.13
+Image              PC                Routine            Line        Source             
+libifcoremt.so.5   000014EE9710DEBC  for_read_seq_fmt      Unknown  Unknown
+mitgcmuv           000000000064C4FD  eeset_parms_             1910  eeset_parms.f
+mitgcmuv           000000000064A1FE  eeboot_                  1634  eeboot.f
+mitgcmuv           000000000069E2D3  MAIN__                   4470  main.f
+mitgcmuv           0000000000402F6D  Unknown               Unknown  Unknown
+libc.so.6          000014EE95351E6C  Unknown               Unknown  Unknown
+libc.so.6          000014EE95351F35  __libc_start_main     Unknown  Unknown
+mitgcmuv           0000000000402E9A  Unknown               Unknown  Unknown
+rm: cannot remove 'w2*': No such file or directory
