@@ -1,0 +1,25 @@
+# ******************
+# ECCO cost function
+# ******************
+#
+ &ECCO_COST_NML
+#
+ using_cost_sst = .TRUE.,
+ using_cost_altim = .TRUE.,
+#
+ cost_iprec  = 32,
+ cost_yftype = 'RL',
+#
+ /
+#
+ &ECCO_GENCOST_NML
+  gencost_avgperiod(1)  = 'day',
+  gencost_barfile(1) = 'm_horflux_vol',
+  gencost_name(1) = 'sens_flux_vol',
+  gencost_mask = 'sens_mask'
+  mult_gencost(1) = 1.,
+
+# need to set adjoint dump frequency in data. in &PARM03 set adjDumpFreq=  86400.,
+
+ /
+#
