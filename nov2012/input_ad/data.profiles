@@ -5,7 +5,7 @@
 # ******************
  &PROFILES_NML
  profilesDir = 'PROF',
- profilesfiles(1) = 'TAO_WO_2012_CTD_daily',
+ profilesfiles(1) = 'TAO_WO_2012_CTD_daily_ED',
  profilesfiles(2) = 'USGO_TP_2012_PFL_D_w',
  profilesfiles(3) = 'HDO_TP_2012_CTD_w',
  profilesfiles(4) = 'WOD_TP_2012_XBT_w',
@@ -13,7 +13,7 @@
  profilesfiles(6) = 'SIO_TP_2012_XBT_w',
  profilesfiles(7) = 'TAO_WO_2012_ADCP_v2',
  profilesfiles(8) = 'TAO_WO_2012_CUR_v2',
- profilesfiles(9) = 'TAO_WO_2013_CTD_daily',
+ profilesfiles(9) = 'TAO_WO_2013_CTD_daily_ED',
  profilesfiles(10) = 'USGO_TP_2013_PFL_D_w',
  profilesfiles(11) = 'HDO_TP_2013_CTD_w',
  profilesfiles(12) = 'WOD_TP_2013_XBT_w',
