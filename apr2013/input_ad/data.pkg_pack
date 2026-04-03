@@ -1,0 +1,13 @@
+# Packages
+ &PACKAGES
+  useKPP         = .FALSE.,
+  useECCO        = .TRUE.,
+  useEXF         = .TRUE.,
+  useOBCS        = .FALSE.,
+  usePROFILES    = .FALSE.,
+  useSMOOTH      = .FALSE.,
+#  usePTRACERS    = .TRUE.,
+#  useGCHEM       = .TRUE.,
+#  useDiagnostics = .TRUE.,
+ /
+  
