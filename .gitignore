@@ -19,3 +19,4 @@ run_**
 **/run_ad
 **/run_fwd
 **.o**
+**__pycache__
